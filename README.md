@@ -206,7 +206,7 @@ The application is optimized for deployment on:
 For any questions about this implementation, please reach out:
 
 - **Email**: iamaryan721@gmail.com
-- **LinkedIn**: [heyoaryan]([url](https://github.com/heyoaryan))
+- **LinkedIn**: [heyoaryan](https://github.com/heyoaryan)
 - **GitHub**:   [heyoaryan](https://www.linkedin.com/in/aryan-singh-thakur-12a422281/)
 
 ---
